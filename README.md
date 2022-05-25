@@ -4,10 +4,14 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiuChen&layout=compact">
 
+<br/>
+
 - :mortar_board: Electronic Information Major
 - :gear: JavaScript & Vue & Python
 - :seedling: Self-taught front end Web technology
 - :sparkles: *Unlimited Progress*
+
+<br/>
 
 ![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
