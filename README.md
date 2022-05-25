@@ -1,11 +1,26 @@
 ### 你好，世界 👋
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DZiuChen&longCache=true)](https://github.com/ZiuChen)
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ziuchen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true">
 
-
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ziuchen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true">](https://github.com/ZiuChen)
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiuChen&layout=compact">
 
 - :mortar_board: Electronic Information Major
-- :hammer: JavaScript & Vue & Python
-- :seedling: Currently learning Front-end web development
-- :smiley: ​*Unlimited Progress*
+- :gear: JavaScript & Vue & Python
+- :seedling: Self-taught front end Web technology
+- :sparkles: *Unlimited Progress*
+
+![](https://img.shields.io/badge/-JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
